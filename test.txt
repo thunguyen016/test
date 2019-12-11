@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 hello everybody
+=======
+hello everybody
+
+123456789
+
+nguyễn thái anh thư
+
+>>>>>>> b24cbe94bf7b4d55099608d0d48803ee9d2d0e02
